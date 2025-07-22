@@ -1,7 +1,4 @@
-# CS50-Final-Project
-SimuFlow is a Python-based tool that animates hydrographs and evaluates hydrological model performance using metrics like NSE, BIAS, and PBIAS.
-
-# SimuFlow
+    # SimuFlow
     #### Video Demo:  https://youtu.be/vtn365gVjq0
     #### Description: SimuFlow is a Python-based tool that animates hydrographs and evaluates hydrological model performance using metrics like NSE, BIAS, and PBIAS.
 
@@ -90,7 +87,6 @@ example:
 - Automatic file naming using rank and NSE score
 - Only top 3 models are plotted for focus and speed
 - Friendly CLI messages and emojis for usability
-
 
 
 
